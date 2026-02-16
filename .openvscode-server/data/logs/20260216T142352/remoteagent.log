@@ -1,0 +1,57 @@
+2026-02-16 14:23:52.920 [info] 
+
+
+
+
+2026-02-16 14:23:52.934 [info] Extension host agent started.
+2026-02-16 14:23:52.944 [info] Started initializing default profile extensions in extensions installation folder. file:///home/workspace/.openvscode-server/extensions
+2026-02-16 14:23:52.974 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/workspace/.openvscode-server/extensions
+2026-02-16 14:37:43.247 [info] [172.17.0.1][14b8b500][ExtensionHostConnection] New connection established.
+2026-02-16 14:37:43.250 [info] [172.17.0.1][c7e30bbb][ManagementConnection] New connection established.
+2026-02-16 14:37:43.397 [info] [172.17.0.1][14b8b500][ExtensionHostConnection] <31> Launched Extension Host Process.
+2026-02-16 14:38:47.393 [info] [172.17.0.1][931ddfe5][ManagementConnection] New connection established.
+2026-02-16 14:38:48.002 [info] [172.17.0.1][e698e696][ExtensionHostConnection] New connection established.
+2026-02-16 14:38:48.010 [info] [172.17.0.1][e698e696][ExtensionHostConnection] <55> Launched Extension Host Process.
+2026-02-16 14:38:49.197 [warning] RequestStore#acceptReply was called without receiving a matching request 13
+2026-02-16 14:38:49.198 [warning] RequestStore#acceptReply was called without receiving a matching request 14
+2026-02-16 14:38:49.198 [warning] RequestStore#acceptReply was called without receiving a matching request 15
+2026-02-16 14:38:49.199 [warning] RequestStore#acceptReply was called without receiving a matching request 16
+2026-02-16 14:38:49.199 [warning] RequestStore#acceptReply was called without receiving a matching request 17
+2026-02-16 14:38:49.200 [warning] RequestStore#acceptReply was called without receiving a matching request 18
+2026-02-16 14:38:49.200 [warning] RequestStore#acceptReply was called without receiving a matching request 19
+2026-02-16 14:38:49.200 [warning] RequestStore#acceptReply was called without receiving a matching request 20
+2026-02-16 14:38:49.201 [warning] RequestStore#acceptReply was called without receiving a matching request 21
+2026-02-16 14:38:49.201 [warning] RequestStore#acceptReply was called without receiving a matching request 22
+2026-02-16 14:38:49.202 [warning] RequestStore#acceptReply was called without receiving a matching request 23
+2026-02-16 14:38:49.202 [warning] RequestStore#acceptReply was called without receiving a matching request 24
+2026-02-16 14:41:46.158 [info] [172.17.0.1][e23614b9][ManagementConnection] New connection established.
+2026-02-16 14:41:46.754 [info] [172.17.0.1][bbb971eb][ExtensionHostConnection] New connection established.
+2026-02-16 14:41:46.760 [info] [172.17.0.1][bbb971eb][ExtensionHostConnection] <79> Launched Extension Host Process.
+2026-02-16 14:41:47.300 [warning] RequestStore#acceptReply was called without receiving a matching request 25
+2026-02-16 14:41:47.301 [warning] RequestStore#acceptReply was called without receiving a matching request 26
+2026-02-16 14:41:47.301 [warning] RequestStore#acceptReply was called without receiving a matching request 27
+2026-02-16 14:41:47.301 [warning] RequestStore#acceptReply was called without receiving a matching request 28
+2026-02-16 14:41:47.302 [warning] RequestStore#acceptReply was called without receiving a matching request 29
+2026-02-16 14:41:47.303 [warning] RequestStore#acceptReply was called without receiving a matching request 30
+2026-02-16 14:41:47.303 [warning] RequestStore#acceptReply was called without receiving a matching request 31
+2026-02-16 14:41:47.304 [warning] RequestStore#acceptReply was called without receiving a matching request 32
+2026-02-16 14:41:47.304 [warning] RequestStore#acceptReply was called without receiving a matching request 33
+2026-02-16 14:41:47.305 [warning] RequestStore#acceptReply was called without receiving a matching request 34
+2026-02-16 14:41:47.305 [warning] RequestStore#acceptReply was called without receiving a matching request 35
+2026-02-16 14:41:47.306 [warning] RequestStore#acceptReply was called without receiving a matching request 36
+2026-02-16 14:41:47.310 [warning] RequestStore#acceptReply was called without receiving a matching request 25
+2026-02-16 14:41:47.311 [warning] RequestStore#acceptReply was called without receiving a matching request 26
+2026-02-16 14:41:47.311 [warning] RequestStore#acceptReply was called without receiving a matching request 27
+2026-02-16 14:41:47.312 [warning] RequestStore#acceptReply was called without receiving a matching request 28
+2026-02-16 14:41:47.312 [warning] RequestStore#acceptReply was called without receiving a matching request 29
+2026-02-16 14:41:47.313 [warning] RequestStore#acceptReply was called without receiving a matching request 30
+2026-02-16 14:41:47.313 [warning] RequestStore#acceptReply was called without receiving a matching request 31
+2026-02-16 14:41:47.313 [warning] RequestStore#acceptReply was called without receiving a matching request 32
+2026-02-16 14:41:47.314 [warning] RequestStore#acceptReply was called without receiving a matching request 33
+2026-02-16 14:41:47.314 [warning] RequestStore#acceptReply was called without receiving a matching request 34
+2026-02-16 14:41:47.315 [warning] RequestStore#acceptReply was called without receiving a matching request 35
+2026-02-16 14:41:47.315 [warning] RequestStore#acceptReply was called without receiving a matching request 36
+2026-02-16 14:41:48.886 [info] [172.17.0.1][e23614b9][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2026-02-16 14:41:48.943 [info] [172.17.0.1][bbb971eb][ExtensionHostConnection] <79> Extension Host Process exited with code: 0, signal: null.
+2026-02-16 14:41:57.803 [info] [172.17.0.1][c7e30bbb][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2026-02-16 14:41:57.933 [info] [172.17.0.1][14b8b500][ExtensionHostConnection] <31> Extension Host Process exited with code: 0, signal: null.

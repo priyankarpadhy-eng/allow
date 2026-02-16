@@ -1,0 +1,42 @@
+{
+  "name": "multiagent-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@e2b/code-interpreter": "^2.3.3",
+    "@monaco-editor/react": "^4.7.0",
+    "@supabase/supabase-js": "^2.48.1",
+    "@vscode/codicons": "^0.0.44",
+    "@webcontainer/api": "^1.6.1",
+    "@xterm/addon-fit": "^0.11.0",
+    "clsx": "^2.1.1",
+    "framer-motion": "^12.4.3",
+    "lucide-react": "^0.475.0",
+    "next": "15.1.7",
+    "openai": "^4.85.4",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "tailwind-merge": "^3.0.1",
+    "xterm": "^5.3.0",
+    "y-monaco": "^0.1.6",
+    "y-websocket": "^2.1.0",
+    "yjs": "^13.6.23"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^9",
+    "eslint-config-next": "15.1.7",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}

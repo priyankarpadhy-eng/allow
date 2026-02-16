@@ -1,0 +1,56 @@
+{
+	"name": "alloy-vscode",
+	"displayName": "Alloy Agentic DE",
+	"description": "Integrated Mission Control & Agent Feed for Alloy Cloud IDE",
+	"version": "0.1.0",
+	"publisher": "alloy",
+	"main": "./dist/extension.js",
+	"activationEvents": [],
+	"engines": {
+		"vscode": "^1.78.0"
+	},
+	"contributes": {
+		"viewsContainers": {
+			"activitybar": [
+				{
+					"id": "alloy-sidebar",
+					"title": "Alloy Mission Control",
+					"icon": "resources/alloy-icon.svg"
+				}
+			]
+		},
+		"views": {
+			"alloy-sidebar": [
+				{
+					"type": "webview",
+					"id": "alloy.agents",
+					"name": "Mission Agents",
+					"icon": "resources/agents.svg"
+				},
+				{
+					"type": "webview",
+					"id": "alloy.feed",
+					"name": "Room Feed",
+					"icon": "resources/feed.svg"
+				}
+			]
+		}
+	},
+	"scripts": {
+		"vscode:prepublish": "npm run package",
+		"compile": "tsc -p ./",
+		"watch": "tsc -watch -p ./",
+		"package": "tsc -p ./",
+		"test-compile": "tsc -p ./"
+	},
+	"devDependencies": {
+		"@types/node": "^16.11.7",
+		"@types/vscode": "^1.78.0",
+		"typescript": "^5.0.4"
+	},
+	"__metadata": {
+		"installedTimestamp": 1771253587582,
+		"targetPlatform": "undefined",
+		"size": 8607
+	}
+}

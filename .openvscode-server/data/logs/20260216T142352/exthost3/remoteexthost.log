@@ -1,0 +1,10 @@
+2026-02-16 14:41:47.221 [info] Extension host with pid 79 started
+2026-02-16 14:41:47.318 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-02-16 14:41:47.374 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-02-16 14:41:47.392 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-02-16 14:41:47.393 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-02-16 14:41:47.508 [info] Eager extensions activated
+2026-02-16 14:41:47.509 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-02-16 14:41:47.511 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-02-16 14:41:48.899 [info] Extension host terminating: received terminate message from renderer
+2026-02-16 14:41:48.911 [info] Extension host with pid 79 exiting with code 0
