@@ -1,0 +1,5 @@
+2026-02-16 15:26:07.244 [error] Error: Failed Installing Extensions: file:///home/workspace/alloy-vscode-0.1.0.vsix
+    at Ul.installExtensions (file:///home/.openvscode-server/out/server-main.js:67:35543)
+    at async file:///home/.openvscode-server/out/server-main.js:71:16337
+    at async j2.run (file:///home/.openvscode-server/out/server-main.js:71:16170)
+    at async ZU (file:///home/.openvscode-server/out/server-main.js:71:15638)

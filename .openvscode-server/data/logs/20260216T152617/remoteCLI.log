@@ -1,0 +1,5 @@
+2026-02-16 15:26:17.459 [info] Installing extension: alloy.alloy-vscode {"isMachineScoped":false,"installPreReleaseVersion":false,"donotIncludePackAndDependencies":false,"installGivenVersion":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/workspace/.openvscode-server/extensions/extensions.json","external":"file:///home/workspace/.openvscode-server/extensions/extensions.json","path":"/home/workspace/.openvscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.105.1","date":"2025-10-23T13:34:17.656Z"}}
+2026-02-16 15:26:17.562 [info] Deleted existing extension from disk alloy.alloy-vscode /home/workspace/.openvscode-server/extensions/alloy.alloy-vscode-0.1.0
+2026-02-16 15:26:17.666 [info] Extracted extension to file:///home/workspace/.openvscode-server/extensions/alloy.alloy-vscode-0.1.0: alloy.alloy-vscode
+2026-02-16 15:26:17.701 [info] Renamed to /home/workspace/.openvscode-server/extensions/alloy.alloy-vscode-0.1.0
+2026-02-16 15:26:17.768 [info] Extension installed successfully: alloy.alloy-vscode file:///home/workspace/.openvscode-server/extensions/extensions.json

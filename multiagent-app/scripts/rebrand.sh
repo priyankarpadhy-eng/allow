@@ -27,4 +27,7 @@ sed -i 's/"nameShort": ".*"/"nameShort": "Alloy"/g' "$TARGET/product.json"
 sed -i 's/"nameLong": ".*"/"nameLong": "Alloy IDE"/g' "$TARGET/product.json"
 sed -i 's/"applicationName": ".*"/"applicationName": "alloy"/g' "$TARGET/product.json"
 
+# Fix Mixed Content: Force Webviews to use HTTP Localhost
+sed -i 's/"nameShort": "Alloy"/"nameShort": "Alloy", "webviewContentExternalBaseUrlTemplate": "http:\/\/localhost:3001\/stable-{{commit}}\/out\/vs\/workbench\/contrib\/webview\/browser\/pre\/"/g' "$TARGET/product.json"
+
 echo "Rebranding complete! Please restart the container."

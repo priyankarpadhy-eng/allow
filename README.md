@@ -62,3 +62,18 @@ If you see a blank screen or "Mixed Content" error in the sidebar:
    - Click the "Shield" icon in the URL bar -> "Load Unsafe Scripts" (if applicable).
    - Or try **Incognito Mode**.
 3. **Port 3000**: Ensure `npm run dev` is running (the sidebar depends on it).
+
+## 🌍 Team Collaboration (Remote Access)
+
+To let your friends join your IDE session without being on the same WiFi:
+
+### Recommended: Use a Tunnel (ngrok)
+Tools like **ngrok** or **Cloudflare Tunnel** turn your local port `3001` into a public HTTPS URL.
+
+1.  **Install ngrok**: [Download](https://ngrok.com/download)
+2.  **Start Tunnel**:
+    ```bash
+    ngrok http 3001
+    ```
+3.  **Share URL**: Give the `https://....ngrok-free.app` link to your team.
+    *Note: This also fixes Mixed Content errors automatically since it's HTTPS!*

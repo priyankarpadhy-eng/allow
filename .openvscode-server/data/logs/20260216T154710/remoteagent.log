@@ -1,0 +1,18 @@
+2026-02-16 15:47:10.757 [info] 
+
+
+
+
+2026-02-16 15:47:10.758 [info] Extension host agent started.
+2026-02-16 15:47:15.219 [error] [172.17.0.1][0344c5b9][ExtensionHostConnection] Unknown reconnection token (never seen).
+2026-02-16 15:47:15.225 [error] [172.17.0.1][7b67e2c2][ManagementConnection] Unknown reconnection token (never seen).
+2026-02-16 15:47:15.250 [error] [172.17.0.1][9a9db7f9][ExtensionHostConnection] Unknown reconnection token (never seen).
+2026-02-16 15:47:15.252 [error] [172.17.0.1][444ab648][ManagementConnection] Unknown reconnection token (never seen).
+2026-02-16 15:48:10.209 [info] [172.17.0.1][dc5b8631][ManagementConnection] New connection established.
+2026-02-16 15:48:10.835 [info] [172.17.0.1][83ef1a2f][ExtensionHostConnection] New connection established.
+2026-02-16 15:48:10.931 [info] [172.17.0.1][83ef1a2f][ExtensionHostConnection] <31> Launched Extension Host Process.
+2026-02-16 15:48:14.373 [info] [172.17.0.1][dc5b8631][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2026-02-16 15:48:14.434 [info] [172.17.0.1][83ef1a2f][ExtensionHostConnection] <31> Extension Host Process exited with code: 0, signal: null.
+2026-02-16 15:48:15.265 [info] [172.17.0.1][13c5bd26][ManagementConnection] New connection established.
+2026-02-16 15:48:15.805 [info] [172.17.0.1][46750d06][ExtensionHostConnection] New connection established.
+2026-02-16 15:48:15.811 [info] [172.17.0.1][46750d06][ExtensionHostConnection] <48> Launched Extension Host Process.
