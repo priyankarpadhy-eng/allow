@@ -2,6 +2,7 @@ import { useState } from "react"
 import { motion, AnimatePresence } from "framer-motion"
 import { Sparkles, LayoutGrid, CheckCircle2, ListTodo, Activity, Play, Plus, Trash2, AlertCircle } from "lucide-react"
 import { cn } from "@/lib/utils"
+import { TeamMembers } from "./TeamMembers"
 
 interface Agent {
     id: string
@@ -149,6 +150,7 @@ export function ManagerView({ roomId }: ManagerViewProps) {
                         ))}
                     </div>
                 </div>
+                <TeamMembers />
             </div>
 
             {/* Task Feed (Global History) */}
