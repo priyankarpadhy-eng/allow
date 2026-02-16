@@ -50,3 +50,15 @@ Custom sidebar extension providing:
 - **Port 3000**: Background UI Service (Next.js) - *Used internally by the extension*
 
 > **Note**: For setup details, see [SETUP.md](./SETUP.md).
+
+## ⚠️ Troubleshooting
+
+### "Connection Blocked" / Mixed Content Error
+If you see a blank screen or "Mixed Content" error in the sidebar:
+1. **Check your URL**: Ensure you are using **`http://`** and NOT `https://`.
+   - ✅ Correct: `http://localhost:3001`
+   - ❌ Incorrect: `https://localhost:3001`
+2. **Browser Blocking**: Chrome/Brave may block the "insecure" content.
+   - Click the "Shield" icon in the URL bar -> "Load Unsafe Scripts" (if applicable).
+   - Or try **Incognito Mode**.
+3. **Port 3000**: Ensure `npm run dev` is running (the sidebar depends on it).
